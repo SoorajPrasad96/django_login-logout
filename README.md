@@ -3,4 +3,4 @@ Using django framework (Python) built in functionality of login/logout authentic
 Also if required the Superuser password and username is:
 username : redwhale
 password : qwerty1234
-Create more users from the admin panel and check if it works. 
+Create more users from the admin panel and check if it works on platform.
